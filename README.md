@@ -1,9 +1,35 @@
-# Mapping-the-Path-to-Net-Zero
-# Abstract
-The manufacturing sector's role in the decarbonization agenda to achieve Net Zero by 2050 spans its operations and the wider economy by helping design and manufacture products needed for a low-carbon economy. Countries are trying to develop strategies and roadmaps for Net Zero transitions in the Manufacturing sector. For instance, in partnership with Inspire PLC, Make UK developed the UK’s road map to Net Zero in 2050. However, most of the transition roadmaps are developed in consultation with only manufacturing and sub-manufacturing sectors, thus, neglecting the potential roles and impacts that other sectors could have on the manufacturing sector and vice versa in the transitioning process. Furthermore, research in manufacturing Net Zero transition has focused on core manufacturing activities without viewing the transition strategies from a holistic perspective and gathering insights from other sectors. In this work, we deploy a bibliometric analysis to study the research in Net Zero Transitions in the Manufacturing sector and a Systematic Literature review to scope the links with Manufacturing and other sectors in transitioning to a carbon-neutral economy and finally identify the interventions and impacts from different sectors to Net Zero Transitions in Manufacturing. The outcome of this work provides an opportunity to understand what the manufacturing sector identifies as Net Zero transitions and opens-up conversations on the role of other sectors in achieving Net Zero Manufacturing.
-# Objective
-To seek advanced knowledge and practices related to the Net Zero transition in the manufacturing sector It endorses an interdisciplinary perspective and a holistic approach. 
-•	Conducting a Bibliometric analysis, identifying key themes, trends, and knowledge gaps, and mapping the research landscape on manufacturing and Net Zero transitions.
-•	Investigating the domains that are interconnected to the manufacturing sectors that are contributing to carbon emissions and exploring their roles in the manufacturing sector. 
-•	Finding and measuring the efficacy and scalability of solutions from other industries that aid in manufacturing’s shift to Net Zero. 
-•	Propose integrated strategies for Net Zero transitions that leverage cross-sectoral synergies and address systemic challenges.
+
+# **Mapping the Path to Net Zero**
+
+## **Abstract**
+The manufacturing sector is pivotal to global decarbonization efforts aimed at achieving Net Zero emissions by 2050. Its influence extends beyond internal operations, shaping the development and production of technologies essential for a low-carbon future. Although several national Net Zero strategies exist—for example, the United Kingdom’s 2050 roadmap developed by Inspire PLC and Make UK—these roadmaps often focus primarily on manufacturing and sub-manufacturing domains. As a result, the potential roles, impacts, and synergies of other interconnected sectors are frequently overlooked.
+
+Existing research similarly centers on core manufacturing activities without adopting a broader, cross-sectoral perspective. To address this gap, this study performs a **bibliometric analysis** to map the research landscape on manufacturing-related Net Zero transitions and conducts a **systematic literature review** to examine how other sectors influence and enable manufacturing’s decarbonization journey. The findings identify key cross-sectoral interventions, interdependencies, and opportunities that can accelerate progress toward Net Zero manufacturing.
+
+---
+
+## **Objectives**
+This work seeks to advance interdisciplinary understanding of Net Zero transitions within the manufacturing sector by:
+
+- Conducting a **bibliometric analysis** to identify dominant themes, research trends, and knowledge gaps.
+- Examining **interdependent sectors** that contribute to manufacturing-related emissions and influence transition pathways.
+- Assessing the **effectiveness and scalability** of solutions originating from non-manufacturing sectors that support decarbonization.
+- Proposing **integrated, cross-sectoral strategies** that leverage synergies and address systemic barriers in achieving Net Zero manufacturing.
+
+---
+
+## **Research Questions**
+1. **R1:** What is the current research landscape in Net Zero transitions?  
+2. **R2:** Which other sectors are linked to manufacturing in the context of Net Zero transitions?  
+3. **R3:** What cross-sectoral interventions or connections can support the manufacturing sector in achieving Net Zero?
+
+---
+
+## **Results**
+
+### **R1: Current Research Landscape**
+Bibliometric analysis shows that the most influential studies focus heavily on sustainable practices within the **renewable energy sector**. The literature highlights the importance of global collaboration among industries, governments, and research institutions. Such cooperation fosters technological advancements and policy innovations that reduce emissions both **within** manufacturing operations and **across external systems** that influence manufacturing activities.
+
+### **R2: Cross-Sectoral Linkages with Manufacturing**
+The findings reveal several **interdependent sectors** that significantly impact manufacturing emissions. These include energy, transportation, construction, waste management, and digital technologies. Their interactions demonstrate that manufacturing does not operate in isolation; rather, it is embedded within a broader ecosystem of sectors that collectively determine carbon outcomes. Effective Net Zero transitions therefore require **coordinated cross-industry collaboration**, shared policy frameworks, and integrated technological solutions.
+
